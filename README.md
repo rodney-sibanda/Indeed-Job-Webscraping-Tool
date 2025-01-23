@@ -1,4 +1,4 @@
-# Indeed-Job-Webscraping-Tool
+# Indeed Job Webscraping Tool
 
 This project is a Selenium-based web scraper developed for the GNWT Bureau of Statistics. It retrieves up-to-date job market data from Indeed for the Northwest Territories (NWT). Previously, the Resource Statistician relied on estimates provided by Statistics Canada, which often did not reflect the current job market accurately. This tool bridges that gap by providing real-time data to generate reliable reports, giving a clearer picture of the job market in the NWT.
 
